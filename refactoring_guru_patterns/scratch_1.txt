@@ -1,0 +1,26 @@
+refactoring_guru_patterns
+    behavioral
+         chain_of_resposobility
+         command
+         iterator
+         mediator
+         memento
+         observer
+         state
+         strategy
+         template_method
+         visitor
+    creational
+         abstract_factory
+         builder
+         factory
+         prototype
+         singleton
+    structural
+         adapter
+         bridge
+         composer
+         decorator
+         facade
+         flyweight
+         proxy
